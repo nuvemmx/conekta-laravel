@@ -9,7 +9,7 @@
             "email": "soporte@nuvemtecnologia.mx"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {
         "php": "~7.0",
         "conekta/conekta-php": "4.0.4",
