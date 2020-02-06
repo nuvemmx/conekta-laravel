@@ -1,6 +1,6 @@
 <?php
 
-namespace Ocornejo\Conekta;
+namespace Nuvemmx\Conekta;
 
 use Illuminate\Support\ServiceProvider;
 

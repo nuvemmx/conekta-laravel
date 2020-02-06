@@ -1,6 +1,6 @@
 <?php
 
-namespace Ocornejo\Conekta\Traits;
+namespace Nuvemmx\Conekta\Traits;
 
 trait ConektaTrait
 {

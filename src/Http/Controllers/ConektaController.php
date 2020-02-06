@@ -11,7 +11,7 @@ use App\Mail\OxxoReferenceMail;
 use App\Conekta as ConektaModel;
 use App\Http\Request\ConektaRequest;
 use Illuminate\Support\Facades\Mail;
-use Ocornejo\Conekta\Traits\ConektaTrait as ct;
+use Nuvemmx\Conekta\Traits\ConektaTrait as ct;
 
 class ConektaController extends Controller
 {
