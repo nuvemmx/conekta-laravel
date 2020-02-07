@@ -25,13 +25,15 @@ Este paquete está diseñado para usarse en Laravel 5.*
 
 ## Instalación
 
-Para instalar el paquete con **composer**:
+Para instalar el paquete con ingrese la siguiente línea en **composer.json**:
 
 ```
-$ composer require Nuvemmx/conekta-laravel
+"require": {
+    "nuvemmx/conekta-laravel": "dev-dev"
+},
 ```
 
-si tu versión de Laravel es inferior a 5.4 es necesario registrar el _provider_ en `config/app.php`
+si tu versión de Laravel es igual o inferior a 5.4 es necesario registrar el _provider_ en `config/app.php`
 
 ```php
 'providers' => [
